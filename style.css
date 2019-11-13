@@ -55,7 +55,7 @@
     max-width: 600px;
     background: #f1f1f1;
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 30px 40px;
@@ -91,7 +91,7 @@
     font-size: 18px;
     margin-top: 6px;
   }
-  .btn 
+  .btnc 
   {
     display: inline-block;
     padding: 14px 0;
